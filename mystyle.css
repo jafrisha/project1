@@ -1,0 +1,11 @@
+.tab { margin-left: 60px; }
+
+p  { font-family:arial;
+   font-size:30pt;
+   color:darkgreen;
+   background-color: slategrey;
+}
+
+em  { font-weight:bold;
+    color:black;
+}
